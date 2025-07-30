@@ -19,4 +19,4 @@ A simple calculator app built with Python and Tkinter. This project takes two nu
 3. Open your terminal and run:
 
 ```bash
-python calculator_gui.py
+python calculator.py
